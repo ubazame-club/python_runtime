@@ -1,8 +1,8 @@
 {
 "name":{
-"ja-jp":"ウミヘビ"
+"ja-jp":"Python実行環境"
 },
-"screenshot_count":1,
+"screenshot_count":0,
 "icon_sizes":[],
 "authors":["ski.com"],
 "license":"raw:\nPythonを基に作っております。\nPythonのライセンスは、PSFライセンスの下で配布されております。詳しくは、「https://docs.python.org/ja/3.8/license.html#psf-license」を参照してください。"
